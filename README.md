@@ -1,5 +1,5 @@
 Olà, meu nome è Mariana Cia;
-Sou do Primeiro ano do Ensino Mèdio, no Paranà.
+Sou do Segundo ano do Ensino Mèdio, no Paranà.
 
 <!---
 MarianaNana190/MarianaNana190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
